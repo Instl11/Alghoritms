@@ -1,0 +1,12 @@
+ MARKED AREA ===========================
+Student: Anton | Average grade: 67.0Subject: Math, Grade: 82.0
+Subject: Phisics, Grade: 79.0
+Subject: Biology, Grade: 40.0
+========================================
+Student: Alina | Average grade: 72.0Subj MARKED AREA  Grade: 70.0
+Subject: Math, Grade: 60.0
+Subject: Biology, Grade: 86.0
+========================================
+Student: Mark | Average grade: 80.0Subject: Phisics, Grade: 70.0
+Subject: Biology, Grade: 90.0
+Subject: Math, Grade: 80.0==========
